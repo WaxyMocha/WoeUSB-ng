@@ -40,3 +40,4 @@ Makefile.in
 doc/_build
 
 venv/
+target/
