@@ -1,4 +1,4 @@
-# This is old repository, please visit [new repository](https://github.com/WoeUSB/WoeUSB-ng) for current version
+# This is old repository, please visit [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) for current version
 
 # WoeUSB-ng
 ![brand](src/data/woeusb-logo.png)[![thumbnail of GUI wrapper screenshot](dev/woeusbgui-screenshot.thumbnail.png)](dev/woeusbgui-screenshot.png)[![thumbnail of CLI application screenshot](dev/woeusb-screenshot.thumbnail.png)](dev/woeusb-screenshot.png)
